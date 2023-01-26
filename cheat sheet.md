@@ -1,1 +1,5 @@
 # Linux-Commands
+| Comando| Descripcion | Ejemplo |
+| --- | --- | --- |
+| git status | List all new or modified files | Aqui va el ejemplo |
+| git diff | Show file differences that haven't been staged | Aqui va el ejemplo |
