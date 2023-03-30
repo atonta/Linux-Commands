@@ -13,3 +13,5 @@
 | `sudo pacman -S unrar zip unzip gzip bzip2`| Instalar nuevos paquetes con pacman para comprimir y descomprimir archivos | ![image](https://user-images.githubusercontent.com/61789641/228717764-bb771781-f472-4207-845b-618c4675b616.png) |
 | `sudo pacman -S yay
 sudo yay -S --needed base-devel`| Instalar el Repositorio AUR (Arch User Repository) | ![image](https://user-images.githubusercontent.com/61789641/228717969-bacec774-337a-4450-bf47-ec093f933667.png) |
+| `yay -S google-chrome`| Instalar google-chrome por medio del instalador de paquetes yay | ![image](https://user-images.githubusercontent.com/61789641/228718189-a255a1c3-fc98-4c1a-b6ec-f9073fbda90e.png) |
+| `sudo useradd -m nombredeusuario -G wheel -p passworddelusuario`| Agregar un nuevo usuario | ![image](https://user-images.githubusercontent.com/61789641/228718466-323be7db-e5f5-406f-877f-25e3fcab44c9.png) |
