@@ -9,5 +9,7 @@
 | `sudo kill -9 *ID*`| Cierra/Mata un proceso| En este caso, se cerró Firefox que tenía el ID: 3121 ![image](https://user-images.githubusercontent.com/61789641/215287352-2d8b1f42-c8d5-4c40-b48d-856c8c78dc08.png) |
 | `top`| Muestra los procesos activos | ![image](https://user-images.githubusercontent.com/61789641/215287551-54c025f0-b4ea-4819-b23a-725a4f2aa2a7.png) |
 | `htop`| Permite monitorear de forma interactiva los recursos vitales del sistema o los procesos en tiempo real | ![image](https://user-images.githubusercontent.com/61789641/215287618-eed48409-48c1-4ff5-8d3b-b7572bc7a3ed.png) |
-| `sudo pacman -Sy`|  actualizar los paquetes disponibles del sistema operativo | ![image](https://user-images.githubusercontent.com/61789641/228717560-7d2b4327-063e-4ef0-b6e5-cf001f2c2e08.png)
- |
+| `sudo pacman -Sy`| Actualizar los paquetes disponibles del sistema operativo | ![image](https://user-images.githubusercontent.com/61789641/228717560-7d2b4327-063e-4ef0-b6e5-cf001f2c2e08.png) |
+| `sudo pacman -S unrar zip unzip gzip bzip2`| Instalar nuevos paquetes con pacman para comprimir y descomprimir archivos | ![image](https://user-images.githubusercontent.com/61789641/228717764-bb771781-f472-4207-845b-618c4675b616.png) |
+| `sudo pacman -S yay
+sudo yay -S --needed base-devel`| Instalar el Repositorio AUR (Arch User Repository) | ![image](https://user-images.githubusercontent.com/61789641/228717969-bacec774-337a-4450-bf47-ec093f933667.png) |
